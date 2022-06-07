@@ -163,7 +163,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="𝙐𝙥𝙙𝙖𝙩𝙚𝙨",
-                            url=f"https://t.me/DANGEROUSFIGHTER")
+                            url=f"https://t.me/wtf_Dangerousowner")
                ],
                [
                     InlineKeyboardButton(
@@ -216,7 +216,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="𝙐𝙥𝙙𝙖𝙩𝙚𝙨",
-                            url=f"https://t.me/DANGEROUSFIGHTER")
+                            url=f"https://t.me/wtf_Dangerousowner")
                ],
                [
                     InlineKeyboardButton(
@@ -246,7 +246,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="𝙐𝙥𝙙𝙖𝙩𝙚𝙨",
-                            url=f"https://t.me/DANGEROUSFIGHTER")
+                            url=f"https://t.me/wtf_Dangerousowner")
                ],
                [
                     InlineKeyboardButton(
@@ -314,7 +314,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="𝙐𝙥𝙙𝙖𝙩𝙚𝙨",
-                            url=f"https://t.me/DANGEROUSFIGHTER")
+                            url=f"https://t.me/wtf_Dangerousowner")
                ],
                [
                     InlineKeyboardButton(
