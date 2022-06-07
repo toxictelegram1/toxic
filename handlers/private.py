@@ -15,7 +15,8 @@ async def start_(client: Client, message: Message):
 
 𝘾𝙧𝙚𝙖𝙩𝙤𝙧 :- [𝙏𝙤𝙭𝙞𝙘](https://t.me/wtf_toxicop)
 𝙁𝙞𝙜𝙝𝙩𝙞𝙣𝙜 :- [𝙂𝙧𝙤𝙪𝙥](https://t.me/Dangerousfighters)
-𝙪𝙥𝙙𝙖𝙩𝙚𝙨 :- [𝘿𝙖𝙣𝙜𝙚𝙧𝙤𝙪𝙨](https://t.me/DANGEROUSFIGHTER)
+𝙪𝙥𝙙𝙖𝙩𝙚𝙨 :- [𝘿𝙖𝙣𝙜𝙚𝙧𝙤𝙪𝙨](https://t.me/wtf_Dangerousowner)
+
 
 💞𝘼𝙜𝙖𝙧 𝙖𝙥𝙠𝙤 𝙠𝙤𝙞 𝙨𝙖𝙢𝙖𝙨𝙮𝙖 𝙝𝙤 𝙩𝙤𝙝 𝙤𝙬𝙣𝙚𝙧 𝙨𝙚😈𝙘𝙤𝙣𝙩𝙖𝙘𝙩 𝙠𝙖𝙧𝙤💘 = [𝙏𝙤𝙭𝙞𝙘](https://t.me/wtf-toxicop)**""",
     reply_markup=InlineKeyboardMarkup(
